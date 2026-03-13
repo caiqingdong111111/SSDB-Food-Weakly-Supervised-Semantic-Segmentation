@@ -73,11 +73,13 @@ SSDB-Net     14.79
 
 If you find this work useful, please cite:
 
-@inproceedings{cai2023ssdbnet,
-  title={SSDB-Net: A Single-Step Dual Branch Network for Weakly Supervised Semantic Segmentation of Food Images},
+@inproceedings{cai2023ssdb,
+  title={SSDB-Net: a single-step dual branch network for weakly supervised semantic segmentation of food images},
   author={Cai, Qingdong and Abhayaratne, Charith},
-  booktitle={IEEE International Workshop on Multimedia Signal Processing},
-  year={2023}
+  booktitle={2023 IEEE 25th International Workshop on Multimedia Signal Processing (MMSP)},
+  pages={1--6},
+  year={2023},
+  organization={IEEE}
 }
 
 ---
