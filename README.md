@@ -24,6 +24,20 @@ The method improves segmentation performance on food datasets while requiring on
 
 ---
 
+## Requirements
+
+The code has been tested with the following environment:
+
+- Python 3.9+
+- torch==2.0.1+cu128
+- torchvision==0.23.0+cu128
+- timm==0.9.12
+- numpy==1.21.5
+- scikit-learn==1.0.2
+- Pillow==9.2.0
+- matplotlib==3.5.2
+
+---
 ## Dataset
 
 Experiments are conducted using the FoodSeg103 dataset, which contains:
