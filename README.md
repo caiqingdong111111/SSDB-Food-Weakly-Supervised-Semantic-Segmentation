@@ -59,6 +59,7 @@ If you use this dataset in your work, please cite the original dataset paper.
 To train SSDB-Net:
 
 - python training classification branch.py
+- and
 - python training semantic branch.py
 
 ---
